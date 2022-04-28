@@ -1,0 +1,18 @@
+<svg width="237" height="237" viewBox="0 0 237 237" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_35_1303)">
+<circle cx="118.5" cy="118.5" r="58.5" fill="#D5AC5C"/>
+</g>
+<path d="M129 65.25C132.64 59.25 139.4 55 147.2 55C158.64 55 168 64 168 75C168 78.5 167.22 86.5 165.4 90C158.12 89.25 152.4 93 152.4 100C152.4 105 156.3 109 162.8 110" stroke="white" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M116 64.8462C120.35 51.6462 132.89 42 147.732 42C166.157 42 181 56.7231 181 75" stroke="white" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M177 125.185C177 131.605 173.329 140 164.762 140C155.217 140 151.301 132.346 148.119 126.914C147.14 125.185 144.692 122.716 142 120" stroke="white" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M139.913 113.13H118.391L106.065 126.826C104.891 128.196 102.739 127.413 102.739 125.652V113.13H96.8696C93.5435 113.13 91 110.587 91 107.261V79.8696C91 76.5435 93.5435 74 96.8696 74H139.913C143.239 74 145.783 76.5435 145.783 79.8696V107.261C145.783 110.587 143.239 113.13 139.913 113.13Z" stroke="white" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M104.696 89.6522H132.087" stroke="white" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M104.696 97.4783H120.348" stroke="white" stroke-width="3" stroke-miterlimit="10" stroke-linecap="round"/>
+<defs>
+<filter id="filter0_f_35_1303" x="0" y="0" width="237" height="237" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="30" result="effect1_foregroundBlur_35_1303"/>
+</filter>
+</defs>
+</svg>
