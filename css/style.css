@@ -170,6 +170,12 @@ body {
   padding-bottom: 4.6vw;
 }
 
+@media (min-width: 2050px) {
+  .header {
+    padding-top: 7vw;
+  }
+}
+
 .header__inner {
   max-width: 53vw;
   margin: 0 auto;
