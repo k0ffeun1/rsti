@@ -154,10 +154,28 @@ body {
     font-size: 3.33vw;
     line-height: 125%;
     text-transform: uppercase;
-    padding-left: 0.85vw;
 }
 .header__title {
+    position: relative;
     margin-bottom: 2.6vw;
+}
+.header__title-img1 {
+    position: relative;
+    z-index: 5;
+}
+.header__title-img1, .header__title-img2, .header__title-img3 {
+    position: absolute;
+    top: 0;
+    z-index: 2;
+}
+.header__title-img1 {
+    left: 3vw;
+}
+.header__title-img2 {
+    left: 5vw;
+}
+.header__title-img3 {
+    left: 7vw;
 }
 .header__subtitle {
     text-align: right;
@@ -681,7 +699,7 @@ body {
 .graphic__house {
     position: absolute;
     width: 20vw;
-    top: -3vw;
+    top: 3vw;
     z-index: 2;
 }
 .graphic__img {
@@ -702,6 +720,7 @@ body {
     opacity: 0;
     animation-fill-mode: forwards;
 }
+
 @keyframes graphicNumbers {
     0% {
         opacity: 0;
@@ -734,6 +753,33 @@ body {
     top: 17vw;
     left: 65.5vw;
 }
+@media (min-width: 2050px) {
+    .graphic__number-1 {
+        top: 4.6vw;
+        left: 37vw;
+    }
+    .graphic__number-2 {
+        top: 11.5vw;
+        left: 37.8vw;
+    }
+    .graphic__number-3 {
+        top: 15.3vw;
+        left: 46vw;
+    }
+    .graphic__number-4 {
+        top: 17.7vw;
+        left: 53vw;
+    }
+    .graphic__number-5 {
+        top: 13.5vw;
+        left: 60.8vw;
+    }
+    .graphic__number-6 {
+        top: 17.6vw;
+        left: 68.5vw;
+    }
+}
+
 
 .itog {
     display: flex;
